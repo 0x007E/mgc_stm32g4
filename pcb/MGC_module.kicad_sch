@@ -13792,7 +13792,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32G491CETx"
+		(property "Value" "STM32G491CCTx"
 			(at 77.0733 182.88 0)
 			(effects
 				(font
@@ -13829,7 +13829,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "STM32G491CET6"
+		(property "DigiKey" "497-STM32G491CCT6-ND"
 			(at 72.39 139.7 0)
 			(effects
 				(font

@@ -15064,7 +15064,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "STM32G491CETx"
+		(property "Value" "STM32G491CCTx"
 			(at 4.318 -0.508 90)
 			(layer "B.Fab")
 			(uuid "de124d5f-77ca-426d-81d3-ca54cc1b5f54")
@@ -15102,7 +15102,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" "STM32G491CET6"
+		(property "DigiKey" "497-STM32G491CCT6-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
